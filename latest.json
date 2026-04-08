@@ -1,15 +1,11 @@
 {
   "version": "0.1.0",
   "notes": "Basic Version",
-  "pub_date": "2026-03-25T00:00:00Z",
+  "pub_date": "2026-04-08T00:00:00Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUlM2Tm8zN3JpKzg0Uzl6bTlYNVpHMUppTVhhMWVPWDlPOHZrd2FCZDl0SmFJSmhaRncyYXgzMTJSQml5MENrZTF5TUJsbEhTczZRc3IrKzV6Q3JMVXM5WFFuRXBHSmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5NzMwNDk2CWZpbGU6TmVyYW1fMC4xLjJfeDY0X2VuLVVTLm1zaQpoVjhidldzaGk2Ukp2VVFyS29ReE9LdnhSaFlUY2c1UTNSeC84Ymw2VXdLeTJDemFUUDl5N1phNzhyVkRHS3VOZnllK2FCOVR3YUVkNDJoTmhZZWtEZz09Cg==",
-      "url": "https://github.com/AthithianV/neram-updates/releases/download/v0.1.2/Neram_0.1.2_x64_en-US.msi"
-    },
-    "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUlM2Tm8zN3JpKzd4bGNHNDlDc0NHTkI5d3FCd2VIamZaZHExRVhlOG9QZGkybWZOM09SSmVjQTYzTVUxd1VQRGJOY0pHWldweFcvRURpN1hrUTN5djBCRnpwSFZYZlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5NzMxMDk1CWZpbGU6TmVyYW0uYXBwLnRhci5negpiWnI5SlBXaTlGYnowbDJzRk5hbmZKMFRJR1p2R3ZldUlielRyUWhTMzFIaDlFUVhFcmV0b0l0aUtieXlObnIwSHNJa0pzUjR5bjJLanNOZTd0Y1BDdz09Cg==",
-      "url": "https://github.com/AthithianV/neram-updates/releases/download/v0.1.2/Neram_0.1.2_aarch64.dmg"
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmNORUhxcU1SOVlKRkZaRzhJamtsYnk3K1B2cmJXVkxadktFMEh2ZktycHhzRzNsNDJpWXdabDE0WHVVNTZMYjk1K2h0U3BtTUN6UGR0eWRFM3RKSlJqZVJJVUE0bHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTM3ODM2CWZpbGU6cWhvdW5kXzAuMS4wX2FtZDY0LmRlYgpBVFNMQ1hscWVZaGtTUmNQMExKZUhTNEw0THJ3RHRMZFZsZEVPS2RsSnF0VjhuTU5oV3Y1SjZDWmdKL252NDMvMHY5eW81aXJaMVNLZmhDcllhMWZDUT09Cg==",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.0/qhound_0.1.0_amd64.deb"
     }
   }
 }
