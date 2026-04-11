@@ -5,7 +5,7 @@
   "platforms": {
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmNORUhxcU1SOVlKRkZaRzhJamtsYnk3K1B2cmJXVkxadktFMEh2ZktycHhzRzNsNDJpWXdabDE0WHVVNTZMYjk1K2h0U3BtTUN6UGR0eWRFM3RKSlJqZVJJVUE0bHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTM3ODM2CWZpbGU6cWhvdW5kXzAuMS4wX2FtZDY0LmRlYgpBVFNMQ1hscWVZaGtTUmNQMExKZUhTNEw0THJ3RHRMZFZsZEVPS2RsSnF0VjhuTU5oV3Y1SjZDWmdKL252NDMvMHY5eW81aXJaMVNLZmhDcllhMWZDUT09Cg==",
-      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.0/qhound_0.1.0_amd64.deb"
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.0/qhound-0.1.0-1-x86_64.pkg.tar.zst"
     }
   }
 }
