@@ -4,8 +4,8 @@
   "pub_date": "2026-04-08T00:00:00Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmNORUhxcU1SOVNCWFdYQlR5SWFpVGZjaTNDMzlaYTlXM21sZlhnVThXZUszVENDZzh2L0d0SExvZTNGVjBaNnlFTy9FZVl1SUdnQnllcWtvOHU1MUhLNENQcUFqaUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTMxNDU1CWZpbGU6cWhvdW5kXzAuMS4wX2FtZDY0LkFwcEltYWdlCjZycEU3eE9mNHZqU0x3dnc3RWpTN1ZLQmNFMXlCUGZnd1ZZUmg5MnovR2dmNWZaOHZOOFE5SEtvUFRCcW5ERko1a3hveDQ4TGJiZ0ZVK2FXRkdwSUN3PT0K",
-      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.0/qhound_0.1.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmNORUhxcU1SOWNmZEw2QzBHZ2lCYnFDMUE2NEFrNEJEVG5nWVdYRlM1WjliUVZaM2V0ZXduVlVEUU5nV2lxdGt3TTJlZDBvUHFqVGd5R0FlZUhvY3hoUkRkOVE5SWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTc3MDk4CWZpbGU6cWhvdW5kLTAuMS4wLTEteDg2XzY0LnBrZy50YXIuenN0CnRRMlZib0N6MWcrWWxCdjJ2Ny9FWEorWFA1UThaUi95cktwOWU1MW1id3RoTXhPWGFzR2VuTlZKS0g1MHJvT2E0YVpDMVdqL1JzQlJFMHJFcW9vREJ3PT0K",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.0/qhound-0.1.0-1-x86_64.pkg.tar.zst"
     }
   }
 }
