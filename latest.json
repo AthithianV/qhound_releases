@@ -8,8 +8,8 @@
       "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.0/qhound_0.1.0_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "",
-      "url": ""
+       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmNORUhxcU1SOVRJYmtjbjg5SldIc0pkK0hIK016aitwZXNSaTVQT2Vac3BOYUJOMGdlalJzUkpxVVFnMkF5SFFuZ3Y1NEtRalkzVDZhZVFJRDZRVVRlZUVvNkVXY2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTg4NjQ2CWZpbGU6cWhvdW5kLmFwcC50YXIuZ3oKQmRGYTY4OTAzUTV3akJvU3dhOUlWS3JOVUc1eWVRNktCNllpdnROWUtvUE5OdDMxZjA1bSszVU9FYlU3am9ESXFwa0piUUErc290cGtub0J5MjNCQ3c9PQo=",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.0/qhound.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmNORUhxcU1SOVRJYmtjbjg5SldIc0pkK0hIK016aitwZXNSaTVQT2Vac3BOYUJOMGdlalJzUkpxVVFnMkF5SFFuZ3Y1NEtRalkzVDZhZVFJRDZRVVRlZUVvNkVXY2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTg4NjQ2CWZpbGU6cWhvdW5kLmFwcC50YXIuZ3oKQmRGYTY4OTAzUTV3akJvU3dhOUlWS3JOVUc1eWVRNktCNllpdnROWUtvUE5OdDMxZjA1bSszVU9FYlU3am9ESXFwa0piUUErc290cGtub0J5MjNCQ3c9PQo=",
