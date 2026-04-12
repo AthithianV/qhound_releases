@@ -1,0 +1,57 @@
+{
+  "version": "0.1.0",
+  "release_date": "2026-04-08T00:00:00Z",
+  "stable": true,
+  "platforms": [
+    {
+      "id": "windows_x64",
+      "os": "windows",
+      "display_name": "Windows",
+      "arch": "x64",
+      "ext": ".exe",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.0/qhound_0.1.0_x64-setup.exe",
+      "checksum": "sha256:bd0c70e3c81710a9c7d9b21e2f9d9152845d923bd63c6159c156dea19c263236",
+      "size_bytes": 8570000
+    },
+    {
+      "id": "macos_universal",
+      "os": "macos",
+      "display_name": "macOS (Universal)",
+      "arch": "universal",
+      "ext": ".dmg",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.0/qhound_0.1.0_universal.dmg",
+      "checksum": "sha256:21b9d0378d7dae68ad5192bb5cbe2d9d9fd034f324cea2d713a595f007d05f29",
+      "size_bytes": 24700000
+    },
+    {
+      "id": "linux_deb",
+      "os": "linux",
+      "display_name": "Linux (Debian/Ubuntu)",
+      "arch": "amd64",
+      "ext": ".deb",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.0/qhound_0.1.0_amd64.deb",
+      "checksum": "sha256:01ac056e3b2144dd05e4860d9c6cd37270a7da10e7a6b47283e179192828af8b",
+      "size_bytes": 14400000
+    },
+    {
+      "id": "linux_rpm",
+      "os": "linux",
+      "display_name": "Linux (Fedora/CentOS/RedHat)",
+      "arch": "amd64",
+      "ext": ".rpm",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.0/qhound-0.1.0-1.x86_64.rpm",
+      "checksum": "sha256:12d8edb893b534843e6aaa161511c1e16556d033717e3d787385a431677b6cb8",
+      "size_bytes": 14400000
+    },
+    {
+      "id": "linux_appimage",
+      "os": "linux",
+      "display_name": "Linux (AppImage)",
+      "arch": "amd64",
+      "ext": ".AppImage",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.0/qhound_0.1.0_amd64.AppImage",
+      "checksum": "sha256:b843f175068fdcce4100a2df3fac9498087d6ec3f1f5c3fe3f373944993da12c",
+      "size_bytes": 89000000
+    }
+  ]
+}
