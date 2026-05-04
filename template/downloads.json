@@ -1,0 +1,57 @@
+{
+  "version": "0.1.2",
+  "release_date": "2026-05-03T00:00:00.000Z",
+  "stable": true,
+  "platforms": [
+    {
+      "id": "windows_x64",
+      "os": "windows",
+      "display_name": "Windows",
+      "arch": "x64",
+      "ext": ".exe",
+      "url": "",
+      "checksum": "",
+      "size_bytes": 0
+    },
+    {
+      "id": "macos_universal",
+      "os": "macos",
+      "display_name": "macOS (Universal)",
+      "arch": "universal",
+      "ext": ".dmg",
+      "url": "",
+      "checksum": "",
+      "size_bytes": 0
+    },
+    {
+      "id": "linux_deb",
+      "os": "linux",
+      "display_name": "Linux (Debian/Ubuntu)",
+      "arch": "amd64",
+      "ext": ".deb",
+      "url": "",
+      "checksum": "",
+      "size_bytes": 0
+    },
+    {
+      "id": "linux_rpm",
+      "os": "linux",
+      "display_name": "Linux (Fedora/CentOS/RedHat)",
+      "arch": "amd64",
+      "ext": ".rpm",
+      "url": "",
+      "checksum": "",
+      "size_bytes": 0
+    },
+    {
+      "id": "linux_appimage",
+      "os": "linux",
+      "display_name": "Linux (AppImage)",
+      "arch": "amd64",
+      "ext": ".AppImage",
+      "url": "",
+      "checksum": "",
+      "size_bytes": 0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": "0.1.2",
+  "notes": "Subscription sync with backend.",
+  "pub_date": "2026-05-03T00:00:00.000Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-universal": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
