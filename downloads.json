@@ -9,7 +9,7 @@
       "display_name": "Windows",
       "arch": "x64",
       "ext": ".exe",
-      "url": "https://github.com/AthithianV/qhound/releases/download/v0.1.3/qhound_0.1.3_x64-setup.exe",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.3/qhound_0.1.3_x64-setup.exe",
       "checksum": "",
       "size_bytes": 7207489
     },
@@ -19,7 +19,7 @@
       "display_name": "macOS (Universal)",
       "arch": "universal",
       "ext": ".dmg",
-      "url": "https://github.com/AthithianV/qhound/releases/download/v0.1.3/qhound_0.1.3_universal.dmg",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.3/qhound_0.1.3_universal.dmg",
       "checksum": "",
       "size_bytes": 21548203
     },
@@ -29,7 +29,7 @@
       "display_name": "Linux (Debian/Ubuntu)",
       "arch": "amd64",
       "ext": ".deb",
-      "url": "https://github.com/AthithianV/qhound/releases/download/v0.1.3/qhound_0.1.3_amd64.deb",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.3/qhound_0.1.3_amd64.deb",
       "checksum": "",
       "size_bytes": 12271240
     },
@@ -39,7 +39,7 @@
       "display_name": "Linux (Fedora/CentOS/RedHat)",
       "arch": "amd64",
       "ext": ".rpm",
-      "url": "https://github.com/AthithianV/qhound/releases/download/v0.1.3/qhound-0.1.3-1.x86_64.rpm",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.3/qhound-0.1.3-1.x86_64.rpm",
       "checksum": "",
       "size_bytes": 12271849
     },
@@ -49,7 +49,7 @@
       "display_name": "Linux (AppImage)",
       "arch": "amd64",
       "ext": ".AppImage",
-      "url": "https://github.com/AthithianV/qhound/releases/download/v0.1.3/qhound_0.1.3_amd64.AppImage",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.3/qhound_0.1.3_amd64.AppImage",
       "checksum": "",
       "size_bytes": 90929656
     }
