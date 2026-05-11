@@ -1,19 +1,28 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "notes": "Subscription sync with backend.",
   "pub_date": "2026-05-03T00:00:00.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmNORUhxcU1SOVduMmRVc0tBTTNpWE5EbnJkRUNENjQyUjlGb0ppODd0Z005dXZYVmJSVDlSTno2WDQvWkx3NkNuTUd5L3p6Ym4weDE4YllISkhYSXhaRW8vUkorRFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDA5MjcxCWZpbGU6cWhvdW5kXzAuMS4zX2FtZDY0LkFwcEltYWdlCkwyTnRNZXFXTUg1Z3VEVHdhV2xQenN3QXJYUldEUVpMNDYvYWNybUVwN2lna0FzeTc5R2NMOEtOYWEzZ3NzWGg0VFNmcC9FVW05SHNPdUMvbWVGVkF3PT0K",
-      "url": "https://github.com/AthithianV/qhound/releases/download/v0.1.3/qhound_0.1.3_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmNORUhxcU1SOVdSeFgxdUpLMTRNZzgrVjNSZC9lMEFNNCszOHVCR3NNdkg0ZWJ6QXdmS05pMm5xS3BpZUpheXhmY3RjYnNUQWxXNlljZ2ZUeEZLVXdPaXg4blppZHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDQ5ODQ2CWZpbGU6cWhvdW5kXzAuMS4zX2FtZDY0LkFwcEltYWdlCllMaUJycmF4dWxjSHVmcVZOLzZEOVcxUEpyL05takttN2tRWDVQQmM3N3F2bmpRaHYxMnpzWjFRbitLQnVUY0JCNHRZblFzQUxtMER5TEY4RXVobkNnPT0K",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.3/qhound_0.1.3_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmNORUhxcU1SOWQweEFsUjI2WWpjV0JjM09aSWFidkx2ZDBmVXlBOHJ1ZENScXpJUE41WTVqQ2R6TDlSK2dkd0pXKzJ0alRQYVdLU0FOc1FQMjR3cDZmMDlWMk5QOHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDA4MTgzCWZpbGU6cWhvdW5kXzAuMS4zX3g2NC1zZXR1cC5leGUKSDNqditmbXFTallEbUJHSkVUMlEwU2plOHdGeGwrcnQ0NmNzQnRLeHNLcVIzdkR4TjZPR25MS2lRRHFRWk1Eck52UUpHVFVjRGIrZ3U5dnpDN2VRRFE9PQo=",
-      "url": "https://github.com/AthithianV/qhound/releases/download/v0.1.3/qhound_0.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmNORUhxcU1SOVZZWDZZOTVXREpZU1ZIRnN4SU9NcHBvRGRpMVJlK2VQY1AyVDJmZ1E5NkcrOG50QjlWcDhpTGVnemNrd3NyaG5aZUJCMlF0djRwTDV1VmlRZS9qaVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDUwMDc0CWZpbGU6cWhvdW5kXzAuMS4zX3g2NC1zZXR1cC5leGUKVGxEdzliSVo0em5sUDBaQkQ5MFlIUmRzZ2dOSGlWQXN3Zk9sbFJ6akdaS0x1ZjBKcTBtcEx5MEhuMlAyeWx1ZUVkVWtDRWVGWmxPeU9kWURIU2J5RFE9PQo=",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.3/qhound_0.1.3_x64-setup.exe"
     },
     "darwin-universal": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmNORUhxcU1SOVptTjZJYkdKVjViMUIzOTVHTzRwVnd1aURJU0VHbys4eUZDNzlNWGF2WE1QdjFROXY5eTBqZmF2KytwRjQ2Vmx2OCt2SjJKd3FidHU2dHhEOFM1NXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDQ5ODQ0CWZpbGU6cWhvdW5kLmFwcC50YXIuZ3oKVWg0NnNTOXExREc3aWZoMWFSV3JVbXhMWkpjR2RrdkZjeGZwK0ltQU5HS0I4bjNjYjJjM3JRWGFaR2gvYTRWWDVXVTIvejFqRjA4dUJLOUkwRHNGQkE9PQo=",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.3/qhound_universal.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmNORUhxcU1SOVptTjZJYkdKVjViMUIzOTVHTzRwVnd1aURJU0VHbys4eUZDNzlNWGF2WE1QdjFROXY5eTBqZmF2KytwRjQ2Vmx2OCt2SjJKd3FidHU2dHhEOFM1NXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDQ5ODQ0CWZpbGU6cWhvdW5kLmFwcC50YXIuZ3oKVWg0NnNTOXExREc3aWZoMWFSV3JVbXhMWkpjR2RrdkZjeGZwK0ltQU5HS0I4bjNjYjJjM3JRWGFaR2gvYTRWWDVXVTIvejFqRjA4dUJLOUkwRHNGQkE9PQo=",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.3/qhound_universal.app.tar.gz"
+    },
+
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSmNORUhxcU1SOVptTjZJYkdKVjViMUIzOTVHTzRwVnd1aURJU0VHbys4eUZDNzlNWGF2WE1QdjFROXY5eTBqZmF2KytwRjQ2Vmx2OCt2SjJKd3FidHU2dHhEOFM1NXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDQ5ODQ0CWZpbGU6cWhvdW5kLmFwcC50YXIuZ3oKVWg0NnNTOXExREc3aWZoMWFSV3JVbXhMWkpjR2RrdkZjeGZwK0ltQU5HS0I4bjNjYjJjM3JRWGFaR2gvYTRWWDVXVTIvejFqRjA4dUJLOUkwRHNGQkE9PQo=",
+      "url": "https://github.com/AthithianV/qhound_releases/releases/download/v0.1.3/qhound_universal.app.tar.gz"
     }
   }
 }
